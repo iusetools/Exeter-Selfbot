@@ -33,4 +33,4 @@ pip install [dependency]
 put token in config folder and password if you want to steal other people's profile pictures
 ![download](https://user-images.githubusercontent.com/38389469/89217335-009a1800-d59a-11ea-9906-54a3ca97096e.png)
 ## bye
-[Swag1400](https://media0.giphy.com/media/inctcuuIJ9PvG/giphy.gif)
+[iusetools](https://media0.giphy.com/media/inctcuuIJ9PvG/giphy.gif)
